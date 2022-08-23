@@ -1,0 +1,15 @@
+.h-100 {
+  background-image: url("images/psgtv-hero-21-22.jpg");
+}
+.fullbody {
+  background-color: rgb(37, 36, 36);
+}
+.pictures {
+  margin-left: 14%;
+}
+.list {
+  display: flex;
+}
+footer {
+  background-color: black;
+}
