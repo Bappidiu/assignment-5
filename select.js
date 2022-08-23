@@ -7,7 +7,7 @@ function addToList(element) {
 
   const mainContainer = document.getElementById("list");
   const tableContainer = document.createElement("tr");
-  element.disabled = true;
+
   if (count > 5) {
     alert("select only five player");
     return;
